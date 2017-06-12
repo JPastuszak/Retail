@@ -1,0 +1,19 @@
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\Commerce.Models.dll.config
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\Commerce.Models.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\Commerce.Models.pdb
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\EntityFramework.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\EntityFramework.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\obj\Debug\Commerce.Models.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Commerce.Models\obj\Debug\Commerce.Models.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\Commerce.Models.dll.config
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\Commerce.Models.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\Commerce.Models.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\EntityFramework.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\EntityFramework.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\obj\Debug\Commerce.Models.csprojResolveAssemblyReference.cache
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\obj\Debug\Commerce.Models.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Commerce.Models\obj\Debug\Commerce.Models.pdb

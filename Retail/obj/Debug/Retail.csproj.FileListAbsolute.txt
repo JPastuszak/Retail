@@ -1,0 +1,114 @@
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Retail.dll.config
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Retail.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Retail.pdb
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Antlr3.Runtime.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Commerce.Models.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\EntityFramework.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\EntityFramework.SqlServer.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Newtonsoft.Json.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Owin.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Helpers.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Mvc.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Optimization.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Razor.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\WebGrease.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Commerce.Models.pdb
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Helpers.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Mvc.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Optimization.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.Razor.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Newtonsoft.Json.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Antlr3.Runtime.pdb
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\EntityFramework.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\EntityFramework.SqlServer.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\obj\Debug\Retail.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\obj\Debug\Retail.dll
+C:\Users\Jefferson\documents\visual studio 2013\Projects\Retail\Retail\obj\Debug\Retail.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Retail.dll.config
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Retail.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Retail.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Antlr3.Runtime.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Commerce.Models.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\EntityFramework.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\EntityFramework.SqlServer.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Newtonsoft.Json.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Owin.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Helpers.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Mvc.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Optimization.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Razor.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.Razor.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\WebGrease.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Commerce.Models.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Helpers.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Mvc.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Optimization.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.Razor.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\System.Web.WebPages.Razor.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Newtonsoft.Json.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Antlr3.Runtime.pdb
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\EntityFramework.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\EntityFramework.SqlServer.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\obj\Debug\Retail.csprojResolveAssemblyReference.cache
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\obj\Debug\Retail.dll
+C:\Users\pastuszak\Documents\Projeto-ERP-Ecommerce\Retail\Retail\obj\Debug\Retail.pdb
